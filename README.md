@@ -1,6 +1,7 @@
 # springboot-adminlte
 springboot adminlte
 
+Login admin@admin 12345
 
 Insert Roles
 1 ADMIN
